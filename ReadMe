@@ -1,0 +1,17 @@
+building a python api with this awsome frame work fast api
+
+error handleing is automated but everything is still on the SWE
+
+install uvicorn and fastapi
+
+
+http used /docs in fastapi will allow access to the documetation of how it works
+
+when runing uvicorn be use to use --reload so to constantly reolat after every change
+   correctDirectory/ uvicorn fileName:ApiRequest   --reload
+
+peronsonal commands to resolve erross
+
+export PATH=/usr/bin:/bin
+
+python3 -m pip3 instal x
